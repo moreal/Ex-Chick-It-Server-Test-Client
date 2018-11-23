@@ -1,0 +1,13 @@
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/Ex_Chick_It_Server_NetMQ_Test.exe
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/Ex_Chick_It_Server_NetMQ_Test.pdb
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/AsyncIO.dll
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/NetMQ.dll
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/NetMQ.pdb
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/NetMQ.xml
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/obj/Debug/Ex-Chick-It-Server-DotMQ-Test.csprojAssemblyReference.cache
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/obj/Debug/Ex-Chick-It-Server-DotMQ-Test.csproj.CoreCompileInputs.cache
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/obj/Debug/Ex-Chick-It-Server-DotMQ-Test.csproj.CopyComplete
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/obj/Debug/Ex_Chick_It_Server_NetMQ_Test.exe
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/obj/Debug/Ex_Chick_It_Server_NetMQ_Test.pdb
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/Google.Protobuf.dll
+/home/moreal/Github/game_server/Ex-Chick-It-Server-DotMQ-Test/Ex-Chick-It-Server-DotMQ-Test/bin/Debug/Google.Protobuf.xml
